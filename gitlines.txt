@@ -1,0 +1,16 @@
+git init
+//this will initialize git repository
+//should be written first time
+//badme nhi likhna
+
+git add .
+// this will track all files in git
+
+git commit -m "yaha kuch bhi msg"
+
+git branch -M main
+
+git remote add origin https://github.com/shadab-malik/background-changer.git
+
+git push origin main
+
